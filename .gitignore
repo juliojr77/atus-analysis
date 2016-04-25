@@ -3,3 +3,5 @@
 .direnv
 __pycache__
 *.pyc
+data/.ipynb_checkpoints/ATUS_Analysis-checkpoint.ipynb
+data/.ipynb_checkpoints/scratch_atus-checkpoint.ipynb
